@@ -7,7 +7,7 @@ This project focused on predicting loan default risk using statistical, machine 
  - [View full report](STAT468_final_paper.pdf)
 
 
-##Skills demonstrated
+## Skills demonstrated
 - Data preprocessing
 - Feature engineering
 - binary classification
