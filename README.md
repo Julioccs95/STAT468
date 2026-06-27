@@ -18,3 +18,4 @@ This project focused on predicting loan default risk using statistical, machine 
 - Scorecard development
 - Model interpretation
 - Data modeling
+- Pipeline creation
