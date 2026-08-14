@@ -28,7 +28,7 @@ This project focused on predicting loan default risk using statistical, machine 
 that require specific versions of code packages. Here the virtual environment is called "venv".
 
 - Activate the virtual environment by typing in the command prompt: (Set-ExecutionPolicy -Scope Process -ExecutionPolicy RemoteSigned) ; (& *venv direcrory path*\Scripts\Activate.ps1)
-eg: For me it looks like (Set-ExecutionPolicy -Scope Process -ExecutionPolicy RemoteSigned) ; (& c:\Users\~.venv\Scripts\Activate.ps1)
+-- **example**: For me it looks like (Set-ExecutionPolicy -Scope Process -ExecutionPolicy RemoteSigned) ; (& c:\Users\~.venv\Scripts\Activate.ps1)
   
 -- **What does this do?** It activates the virtual environment meaning that it will now essentially be able to use the packages installed into the environment when needed for the current working directory.
 
