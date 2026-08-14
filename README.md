@@ -21,7 +21,7 @@ This project focused on predicting loan default risk using statistical, machine 
 - Pipeline creation
 
 
-## Use instructions from terminal
+## Terminal instructions for reproducibility and usage
 
 - Make sure that the command prompt is in the file current directory in the IDE.
 
@@ -39,7 +39,12 @@ This project focused on predicting loan default risk using statistical, machine 
   - **What does this do?** This downloads all of the packages from the requirements text file.
 
 
-Important Note: Sometimes all the packages may not download from the text file. It is around 2-3 you may need to do so manually. Also, you need to install "ipykernel" to make the venv into a usable kernel for the Jupyter notebook.
+Important Note: Sometimes all the packages may not download from the text file. It is around 2-3 you may need to do so manually. Also, you need to install "ipykernel" to make the venv into a usable kernel for the Jupyter notebook. Also, this is done from vsCode IDE
 
 Important Note: I have done the environment procedure above and I am able to run the scripts above with only manually needed to add the following packages:
 * ipykernel
+
+
+## Instructions on how to call the interactive dashboard
+- From the terminal after activating the venv from above instructions call command:
+  `streamlit run DashboardV3.py`
