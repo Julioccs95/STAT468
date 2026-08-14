@@ -24,6 +24,7 @@ This project focused on predicting loan default risk using statistical, machine 
 - Make sure that the command prompt is in the file current directory in the IDE 
 
 - Open terminal in the IDE and enter the following command: "py -3.13 -m venv .venv"
+
 -- **What does this do?** It creates a virtual environment which can be thought of as a kernel that holds for now a blank space specifically design for directories that have files which need to reproduce code 
 that require specific versions of code packages. Here the virtual environment is called "venv".
 
