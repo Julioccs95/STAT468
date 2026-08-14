@@ -30,7 +30,7 @@ that require specific versions of code packages. Here the virtual environment is
 - Activate the virtual environment by typing in the command prompt: (Set-ExecutionPolicy -Scope Process -ExecutionPolicy RemoteSigned) ; (& *venv direcrory path*\Scripts\Activate.ps1)
 eg: For me it looks like (Set-ExecutionPolicy -Scope Process -ExecutionPolicy RemoteSigned) ; (& c:\Users\~.venv\Scripts\Activate.ps1)
   
- -What does this do? It activates the virtual environment meaning that it will now essentially be able to use the packages installed into the environment when needed for the current working directory.
+ -  **What does this do?** It activates the virtual environment meaning that it will now essentially be able to use the packages installed into the environment when needed for the current working directory.
 
 - Now run the following command: "pip install -r requirements.txt"
 What does this do? This downloads all of the packages from the requirements text file.
